@@ -1,4 +1,5 @@
-timezone:    Europe/Berlin
+timezone:    Latinoamerica/Ciudad de México
+baseurl:	"/Jhm3105-patch-1" 
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
 baseurl:     "/github-slideshow"
